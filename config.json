@@ -50,8 +50,6 @@
     "Link policy": "LeastDelay",
     "Handover policy": "instant handover",
     "Machines": [
-        {"IP":"101.6.21.1", "port":22, "username":"root", "password":"123456"},
-        {"IP":"101.6.21.2", "port":22, "username":"root", "password":"123456"},
-        {"IP":"101.6.21.3", "port":22, "username":"root", "password":"123456"}
+        {"IP":"192.168.248.30", "port":22, "username":"chenghua", "password":"cheng2704"}
     ]
 }
