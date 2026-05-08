@@ -4,36 +4,8 @@
         {
             "Altitude (km)": 550,
             "Inclination": 53,
-            "Orbits": 72,
-            "Satellites per orbit": 22,
-            "Phase shift": 1
-        },
-        {
-            "Altitude (km)": 540,
-            "Inclination": 53.2,
-            "Orbits": 72,
-            "Satellites per orbit": 22,
-            "Phase shift": 1
-        },
-        {
-            "Altitude (km)": 550,
-            "Inclination": 70,
-            "Orbits": 36,
-            "Satellites per orbit": 20,
-            "Phase shift": 1
-        },
-        {
-            "Altitude (km)": 550,
-            "Inclination": 97.6,
-            "Orbits": 6,
-            "Satellites per orbit": 58,
-            "Phase shift": 1
-        },
-        {
-            "Altitude (km)": 550,
-            "Inclination": 97.6,
-            "Orbits": 4,
-            "Satellites per orbit": 43,
+            "Orbits": 5,
+            "Satellites per orbit": 5,
             "Phase shift": 1
         }
     ],
