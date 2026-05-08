@@ -22,7 +22,7 @@ if __name__ == "__main__":
     sn = StarryNet(configuration_file_path, GS_lat_long, hello_interval)
     
     sn.create_nodes()
-    print(sn.node_mid_dict.keys()) //For test 
+    print(sn.node_mid_dict.keys()) #For test 
     sn.create_links()
   
     node1 = 'SH1O1S1'
