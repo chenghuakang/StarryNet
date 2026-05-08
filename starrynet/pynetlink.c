@@ -1,4 +1,4 @@
-// pynetlink.c - Direct netlink interface for traffic control
+#define PY_SSIZE_T_CLEAN
 #include <Python.h>
 // POSIX and Linux
 #include <unistd.h>
