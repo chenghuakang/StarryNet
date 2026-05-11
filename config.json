@@ -4,8 +4,8 @@
         {
             "Altitude (km)": 550,
             "Inclination": 53,
-            "Orbits": 5,
-            "Satellites per orbit": 5,
+            "Orbits": 22,
+            "Satellites per orbit": 78,
             "Phase shift": 1
         }
     ],
